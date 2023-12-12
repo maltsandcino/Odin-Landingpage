@@ -152,7 +152,7 @@ button {
 .bottom_modal {
     width: 75vw;
     height: 10vh;
-    margin: 20px;
+    margin: 60px;
     border-radius: 10px;
     display: flex;
     flex-direction: row;
